@@ -1,1 +1,1 @@
-# LearnSysProg.
+commands are used : echo , read
